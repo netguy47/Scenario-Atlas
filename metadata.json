@@ -1,0 +1,5 @@
+{
+  "name": "Scenario Atlas",
+  "description": "A curated library of simulation-ready uncertainty scenarios designed to power continuous analysis engines.",
+  "requestFramePermissions": []
+}
